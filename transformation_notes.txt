@@ -1,0 +1,7 @@
+1. Removed unnecessary columns like Employee ID
+2. Renamed columns for clarity
+3. Replaced missing Salary values with average
+4. Changed data types for Age, Salary, Date
+5. Created Age Group conditional column
+6. Created Salary Band column
+7. Built visuals for department count, attrition rate, and salary by age group
